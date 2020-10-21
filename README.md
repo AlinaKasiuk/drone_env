@@ -19,7 +19,7 @@ But I could not find the _Drone.urdf_ itself.
 I downloaded some model from here, added orientation parameters and put it to the _pybullet_data_ folder
 https://github.com/mmyself/ros_ardrone/blob/master/ardrone_launch/launch/drone.urdf
 
-It still does not work correctly and this enviroment is not exactly what I am looking for but I made some modification and learned something about the constructing enviroments with OpenAI gym and pybullet and I want to temporally save it here because it can help me with my future work.
+It still does not work correctly and this enviroment is not exactly what I am looking for but I fixed some bugs in it and learned something about the constructing enviroments with OpenAI gym and pybullet and I want to temporally save it here because it can help me with my future work.
 ____
 
 What did I actually wanted to download was _drone_env_ hosted in https://github.com/JNC96/drone-gym#installation.
