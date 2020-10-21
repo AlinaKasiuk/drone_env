@@ -7,7 +7,7 @@ As I see for that task I will need to create my custom OpenAI gym environment th
 So this enviroment is one that I just downloaded by mistake using:
 
 ```
-    pip install gym
+pip install gym_drone
 ```
 
 This enviroment uses pybullet module and works with an URDF body _Drone.urdf_
